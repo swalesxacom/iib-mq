@@ -14,4 +14,4 @@
 * limitations under the License.
 
 * Add a local queue
-DEFINE QLOCAL(DAQ1) REPLACE
+DEFINE QLOCAL(DAQ2) REPLACE
